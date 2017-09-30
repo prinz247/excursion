@@ -22,3 +22,7 @@ p{
   color: Gray;
   font-size: 21px;
 }
+footer p{
+  text-align: right;
+  color: gray;
+}
