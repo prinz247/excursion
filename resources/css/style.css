@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+h1, h2{
+  color: white;
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+p{
+  color: Gray;
+  font-size: 21px;
+}
